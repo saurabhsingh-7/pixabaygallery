@@ -5,4 +5,4 @@ Simple gallery with images from the pixabay API. Tailwind css is built into work
 ## Usage
 https://pixabay.com/api/docs/
 
-![Image 1](https://ibb.co/gv0Gtv5)
+![Image 1]("react-tailwind-pixabay-gallery-master\image1.png")
