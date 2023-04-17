@@ -5,4 +5,4 @@ Simple gallery with images from the pixabay API. Tailwind css is built into work
 ## Usage
 https://pixabay.com/api/docs/
 
-![alt text](http://url/to/imgage1.png)
+![Image 1](imgage1.png)
